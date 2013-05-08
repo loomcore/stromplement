@@ -3,3 +3,5 @@ stromplement v0.0.1
 Silly little Chicken Scheme hack to "complement" a string.
 
 The Roman alphabet is encoded as 5-bit integers (A=0, B=1, C=2, etc.), modulo 26 (25=Z, 26=A, 27=B, etc.).  stromplement takes a string, encodes and complements each character, then decodes it to a new string.  Spaces are left untouched, and case is ignored.
+
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.txt
